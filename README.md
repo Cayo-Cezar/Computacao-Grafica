@@ -6,9 +6,8 @@ Este repositório contém uma coleção de algoritmos e transformações gráfic
 
 ### 1. Transformadas
 - **Tipos de transformadas**
-  - Fourier
-  - Laplace
-  - Z-transformada
+  - Normal
+  - Homogênea
 
 ### 2. Movimentação do Mundo
 - **Sistemas de coordenadas**
@@ -20,8 +19,6 @@ Este repositório contém uma coleção de algoritmos e transformações gráfic
 
 ### 4. Algoritmos de Desenho de Linhas
 - **DDA (Digital Differential Analyzer)**
-  - Descrição do algoritmo
-  - Vantagens e desvantagens
 - **Bresenham**
   - Algoritmo de Bresenham para linhas
   - Algoritmo de Bresenham para circunferências
