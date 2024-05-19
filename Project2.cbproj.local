@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/22 19:34:16.000.876,=C:\Users\daneil\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/04/22 19:34:16.000.789,=C:\Users\daneil\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2024/04/22 19:35:01.000.847,=C:\Users\daneil\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/04/22 19:35:01.000.810,=C:\Users\daneil\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2024/04/23 10:54:31.000.188,=C:\Users\daneil\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/04/23 10:54:31.000.107,=C:\Users\daneil\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2024/04/23 10:54:41.000.928,C:\Users\daneil\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\daneil\Documents\Embarcadero\Studio\Projects\uPrincipal.dfm</Transaction>
+    <Transaction>2024/04/23 10:54:41.000.928,C:\Users\daneil\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\daneil\Documents\Embarcadero\Studio\Projects\uPrincipal.cpp</Transaction>
+    <Transaction>2024/04/23 10:54:41.000.928,C:\Users\daneil\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\daneil\Documents\Embarcadero\Studio\Projects\uPrincipal.h</Transaction>
+    <Transaction>2024/04/23 10:54:56.000.225,C:\Users\daneil\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=F:\Git\Computacao_grafica\Project2PCH1.h</Transaction>
+    <Transaction>2024/04/23 10:54:56.000.309,C:\Users\daneil\Documents\Embarcadero\Studio\Projects\Project2.cbproj=F:\Git\Computacao_grafica\Project2.cbproj</Transaction>
+    <Transaction>2024/04/23 10:54:56.000.282,C:\Users\daneil\Documents\Embarcadero\Studio\Projects\uPrincipal.h=F:\Git\Computacao_grafica\uPrincipal.h</Transaction>
+    <Transaction>2024/04/23 10:54:56.000.282,C:\Users\daneil\Documents\Embarcadero\Studio\Projects\uPrincipal.dfm=F:\Git\Computacao_grafica\uPrincipal.dfm</Transaction>
+    <Transaction>2024/04/23 10:54:56.000.282,C:\Users\daneil\Documents\Embarcadero\Studio\Projects\uPrincipal.cpp=F:\Git\Computacao_grafica\uPrincipal.cpp</Transaction>
+    <Transaction>2024/04/23 10:55:00.000.112,F:\Git\Computacao_grafica\Project2.cbproj=F:\Git\Computacao_grafica\Project2.cbproj</Transaction>
+    <Transaction>2024/04/23 10:55:21.000.468,=F:\Git\Computacao_grafica\Unit1.cpp</Transaction>
+    <Transaction>2024/04/23 10:55:39.000.421,=F:\Git\Computacao_grafica\Unit2.cpp</Transaction>
+    <Transaction>2024/04/23 10:55:43.000.199,=F:\Git\Computacao_grafica\Unit3.cpp</Transaction>
+    <Transaction>2024/04/23 10:55:46.000.033,=F:\Git\Computacao_grafica\Unit4.cpp</Transaction>
+    <Transaction>2024/04/23 10:55:55.000.443,F:\Git\Computacao_grafica\Unit1.cpp=F:\Git\Computacao_grafica\uPonto.cpp</Transaction>
+    <Transaction>2024/04/23 10:55:55.000.443,F:\Git\Computacao_grafica\Unit1.h=F:\Git\Computacao_grafica\uPonto.h</Transaction>
+    <Transaction>2024/04/23 10:56:06.000.067,F:\Git\Computacao_grafica\Unit2.cpp=F:\Git\Computacao_grafica\uDisplay.cpp</Transaction>
+    <Transaction>2024/04/23 10:56:06.000.067,F:\Git\Computacao_grafica\Unit2.h=F:\Git\Computacao_grafica\uDisplay.h</Transaction>
+    <Transaction>2024/04/23 10:56:17.000.940,F:\Git\Computacao_grafica\Unit3.cpp=F:\Git\Computacao_grafica\uPoligono.cpp</Transaction>
+    <Transaction>2024/04/23 10:56:17.000.940,F:\Git\Computacao_grafica\Unit3.h=F:\Git\Computacao_grafica\uPoligono.h</Transaction>
+    <Transaction>2024/04/23 10:56:34.000.303,F:\Git\Computacao_grafica\Unit4.cpp=F:\Git\Computacao_grafica\uJanela.cpp</Transaction>
+    <Transaction>2024/04/23 10:56:34.000.303,F:\Git\Computacao_grafica\Unit4.h=F:\Git\Computacao_grafica\uJanela.h</Transaction>
+  </Transactions>
+</BorlandProject>
