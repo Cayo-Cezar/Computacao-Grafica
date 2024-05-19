@@ -5,7 +5,6 @@ Este repositório contém uma coleção de algoritmos e transformações gráfic
 ## Conteúdo
 
 ### 1. Transformadas
-- **Definição e importância**
 - **Tipos de transformadas**
   - Fourier
   - Laplace
