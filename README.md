@@ -1,65 +1,68 @@
-# Graphics Algorithms and Transformations
+# Computer Graphics Algorithms (C++ Builder)
 
-Este repositório contém uma coleção de algoritmos e transformações gráficas feita na disciplina de Computação Gráfica na UTFPR-MD.
+This repository contains implementations of **fundamental computer graphics algorithms and geometric transformations**, developed using **C++ Builder (Embarcadero / RAD Studio)** as part of the *Computer Graphics* course at UTFPR.  
+The project focuses on classic algorithms such as line drawing, transformations, clipping, curve generation, and basic 3D object visualization.
 
-## Conteúdo
+---
 
-### 1. Transformadas
-- **Tipos de transformadas**
-  - Normal
-  - Homogênea
+## Features
 
-### 2. Movimentação do Mundo
-- **Sistemas de coordenadas**
-- **Transformações para movimentar objetos na cena**
+- Implementation of classic computer graphics algorithms
+- 2D geometric transformations using matrix operations
+- Line clipping algorithms
+- Curve generation techniques
+- Basic 3D object visualization (cube and pyramid)
+- Modular C++ code using header (`.h`) and source (`.cpp`) files
 
-### 3. Display File
-- **Conceito de Display File**
-- **Estrutura e função em sistemas gráficos**
+---
 
-### 4. Algoritmos de Desenho de Linhas
-- **DDA (Digital Differential Analyzer)**
-- **Bresenham**
-  - Algoritmo de Bresenham para linhas
-  - Algoritmo de Bresenham para circunferências
+## Algorithms and Concepts
 
-### 5. Transformações Geométricas
-- **Translação**
-  - Definição e matriz de translação
-- **Rotação**
-  - Definição e matriz de rotação
-- **Escalonamento**
-  - Definição e matriz de escalonamento
-- **Reflexão**
-  - Definição e matriz de reflexão
-- **Transformada Homogênea**
-  - Uso e vantagens das coordenadas homogêneas
+- **Line Drawing**
+  - DDA (Digital Differential Analyzer)
+  - Bresenham algorithm
 
-### 6. Clipping
-- **Definição de Clipping**
-- **Algoritmos de Clipping**
-  - Cohen-Sutherland
-  - Liang-Barsky
+- **Geometric Transformations**
+  - Translation
+  - Rotation
+  - Scaling
+  - Reflection
+  - Homogeneous coordinates
 
-### 7. Curvas
-- **Curvas Castejau**
-  - Definição e uso
-- **Curvas Hermite**
-  - Definição e aplicação
-- **Curvas Bézier**
-  - Definição e características
-- **Curvas B-Spline**
-  - Definição e propriedades
-- **Métodos de Dividir para Conquistar**
-  - Aplicação em curvas
-- **Métodos Polinomial/Matricial**
-  - Representação e cálculo
-- **Método Forward Difference**
-  - Descrição e aplicação em gráficos
+- **Clipping**
+  - Cohen–Sutherland algorithm
+  - Liang–Barsky algorithm
 
-### 8. Gráficos 3D
-- **Sistemas de coordenadas 3D**
-- **Transformações e projeções em 3D**
+- **Curves**
+  - Bézier curves
+  - Hermite curves
+  - B-Spline curves
+  - Casteljau algorithm
+  - Forward Difference method
 
+- **3D Graphics Basics**
+  - Visualization of 3D objects (cube and pyramid)
+  - Coordinate systems and transformations
+
+---
+
+## Technologies Used
+
+- C++
+- C++ Builder (Embarcadero / RAD Studio)
+- Object-oriented programming
+- Linear algebra (matrices and vectors)
+
+---
+
+## Requirements
+
+- C++ Builder / RAD Studio installed
+- Basic knowledge of:
+  - Computer Graphics
+  - Linear algebra
+  - C++ programming
+
+---
 
 
